@@ -1,0 +1,18 @@
+{
+  "name": "hola-mundo",
+  "version": "1.0.0",
+  "description": "Este es mi primer proyecto de Javascript con Node",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "saludar": "node hola_mundo.js"
+  },
+  "keywords": [
+    "holamundo",
+    "first",
+    "project"
+  ],
+  "author": "Peter Aspiazu S",
+  "license": "ISC"
+}
