@@ -1,0 +1,1 @@
+const list = ['Peter', 26, true, new Date("june 1996 17"), {nombre: 'Homo Deus', autor: 'Yuval Noah Harari', 'fecha-publicacion': 2015, url: 'https://www.ynharari.com/book/homo-deus/'}]
